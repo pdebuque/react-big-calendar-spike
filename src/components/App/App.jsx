@@ -17,7 +17,7 @@ function App() {
           edit events - click on an existing event
         </li>
         <li>
-          drag/drop events
+          drag/drop events - drag and drop entire events, or drag borders to update duration
         </li>
       </ul>
 
